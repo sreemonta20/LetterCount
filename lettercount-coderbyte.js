@@ -6,6 +6,7 @@
     let tempgreatest = 0;
     let greatestword;
 
+    
     for(let i = 0; i < splitwords.length; i++){
         let eachword = splitwords[i];
         for(let j = 0; j < eachword.length; j++){
